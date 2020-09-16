@@ -1,0 +1,6 @@
+[submodule "pmbw"]
+	path = pmbw
+	url = https://github.com/bingmann/pmbw
+[submodule "perfMemPlus"]
+	path = perfMemPlus
+	url = https://github.com/helchr/perfMemPlus
